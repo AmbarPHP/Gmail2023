@@ -5,8 +5,11 @@ Aprender los comceptos basicos:
     -paquetes a instalar
     -sin agregarle el typescript
 2) Creacion de componentes
-    -realciones entre los componentes hijo y padres
-    -siblings
+    -varios componentes: 
+        una lista de mails
+        una menu lateral
+        un menu superior de busqueda
+        
 3) Layouts de la app
   relaciones entre los componentes
 4) Botones:
